@@ -10,6 +10,11 @@
 
 * 1'in soludna 0 bulunur. 
 
-* 6'nın sağında 7 bulunur. Solunda 5 bulunur.
+* 6'nın sağında 8 bulunur. Solunda 5 bulunur.
 
-* 7'nin sağında 9 bulunur. Solunda 8 Bulunur 
+* 8'nin sağında 9 bulunur. Solunda 7 Bulunur 
+
+                                4
+                       2                  6
+                  1        3         5         8
+              0                             7    9
